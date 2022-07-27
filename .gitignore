@@ -8,6 +8,7 @@
 *.obj
 
 *.log
+bin/
 
 # AI engine generated files
 aiengine/Work

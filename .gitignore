@@ -7,6 +7,16 @@
 *.o
 *.obj
 
+*.log
+
+# AI engine generated files
+aiengine/Work
+aiengine/aiesimulator_*
+aiengine/x86simulator_*
+aiengine/pl_sample_counts
+aiengine/ISS_RPC_SERVER_PORT
+aiengine/.AIE_SIM_CMD_LINE_OPTIONS
+
 # Precompiled Headers
 *.gch
 *.pch

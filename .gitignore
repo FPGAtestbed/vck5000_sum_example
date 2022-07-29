@@ -9,6 +9,8 @@
 
 *.log
 bin/
+.Xil/
+reference_files_*
 
 # AI engine generated files
 aiengine/Work
